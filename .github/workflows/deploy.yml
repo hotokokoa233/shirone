@@ -50,6 +50,7 @@ permissions:
 env:
   CONTENT_REPOSITORY: Nyaecho/blog-content
   CONTENT_WORKING_COPY: .content-src
+  ACTION_ALLOW_USE_UNSWCURE_NODE_VERSION: true
 
 jobs:
   deploy:
