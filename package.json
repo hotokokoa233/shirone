@@ -119,7 +119,6 @@
     "unified": "11.0.5",
     "unist-util-visit": "^5.1.0",
     "yaml": "^2.9.0",
-    "@astrojs/cloudflare": "14.2.5"
   },
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.11",
