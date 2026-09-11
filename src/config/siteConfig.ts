@@ -70,7 +70,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		homeText: {
 			// 仅在首页 Banner 中显示，标题与副标题会上下居中排列。
 			enable: true,
-			title: "Shirone",
+			title: "如梦般的泡影",
 			subtitle: [
 				"特別なことはないけど、君がいると十分です",
 				"今でもあなたは私の光",
